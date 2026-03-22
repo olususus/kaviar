@@ -1,6 +1,6 @@
 {
   "name": "@sprawdzany/kaviar",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Cloudflare KV cache helper with SWR, optional gzip compression, AES-GCM encryption, and tag invalidation.",
   "keywords": [
     "cloudflare",
