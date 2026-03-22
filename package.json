@@ -55,5 +55,13 @@
     "tsup": "^8.0.2",
     "typescript": "^5.4.3",
     "vitest": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olususus/kaviar.git"
+  },
+  "homepage": "https://github.com/olususus/kaviar#readme",
+  "bugs": {
+    "url": "https://github.com/olususus/kaviar/issues"
   }
 }
